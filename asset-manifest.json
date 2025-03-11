@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Education-Online-Course/static/css/main.0ea3d27f.css",
+    "main.js": "/Education-Online-Course/static/js/main.f881bee2.js",
+    "static/media/back.webp": "/Education-Online-Course/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/Education-Online-Course/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/Education-Online-Course/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/Education-Online-Course/index.html",
+    "main.0ea3d27f.css.map": "/Education-Online-Course/static/css/main.0ea3d27f.css.map",
+    "main.f881bee2.js.map": "/Education-Online-Course/static/js/main.f881bee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea3d27f.css",
+    "static/js/main.f881bee2.js"
+  ]
+}
